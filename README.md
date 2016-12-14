@@ -28,6 +28,11 @@ visualization of the created UV map.
 ### venus
 ![](img/venus.png)
 
+### video
+
+[![Result](http://img.youtube.com/vi/5Ob5IEohe7s/0.jpg)](https://www.youtube.com/watch?v=5Ob5IEohe7s)
+
+
 ## Building and Usage
 
 If on Linux or OS X, you can build it in the terminal by doing:
