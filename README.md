@@ -40,7 +40,7 @@ You can then supply a mesh to be UV-mapped, and optionally a custom
 texture by doing
 
 ```
-./auto_uv_map --texture=../custom_texture.png ../sphere.obj
+./auto_uv --texture=../custom_texture.png ../sphere.obj
 ```
 
 and then the app will launch, and show you the UV-mapped mesh. You can
